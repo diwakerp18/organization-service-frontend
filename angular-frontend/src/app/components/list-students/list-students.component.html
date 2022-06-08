@@ -1,0 +1,45 @@
+<br/>
+<h2 align="center"> Student List</h2>
+<br/>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th> Id </th>
+            <th> Student Name </th>
+            <th> Roll Number </th>
+            <th> College Name </th>
+            <th> Role </th>
+            <th> Branch </th>
+            <th> Batch </th>
+            <th> Actions </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr *ngFor="let student of students">
+            <td> {{student.id}} </td>
+            <td> {{student.studentName}} </td>
+            <td> {{student.rollNumber}} </td>
+            <td> {{student.collegeName}} </td>
+            <td> {{student.role}} </td>
+            <td> {{student.branch}} </td>
+            <td> {{student.batch}} </td>
+            <td>
+                <button
+                (click) = "updateStudent(student.id)"
+                class="btn btn-info"> Update
+                </button>
+                &nbsp;
+                <button
+                (click) = "viewStudent(student.id)"
+                class="btn btn-info"> View
+                </button>
+                &nbsp;
+                <button
+                (click) = "deleteStudent(student.id)"
+                class="btn btn-danger"> Delete
+                </button>
+            </td>
+        </tr>
+    </tbody>
+</table>
