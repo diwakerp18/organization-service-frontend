@@ -8,17 +8,17 @@ import {ListEmployeesComponent} from "./components/employees/list-employees/list
 import {CreateEmployeeComponent} from "./components/employees/create-employee/create-employee.component";
 import {UpdateEmployeeComponent} from "./components/employees/update-employee/update-employee.component";
 import {ViewEmployeeComponent} from "./components/employees/view-employee/view-employee.component";
+import {HomeComponent} from "./components/home/home.component";
 
 const routes: Routes = [
+  {path: 'home', component: HomeComponent},
+  {path: '', redirectTo: 'home', pathMatch: 'full'},
   {path: 'employees', component: ListEmployeesComponent},
   {path: 'create-employee', component: CreateEmployeeComponent},
-  {path: '', redirectTo: 'employees', pathMatch: 'full' },
   {path: 'update-employee/:id', component: UpdateEmployeeComponent},
   {path: 'view-employee/:id', component: ViewEmployeeComponent},
-
   {path: 'students', component: ListStudentsComponent},
   {path: 'create-student', component: CreateStudentComponent},
-  {path: '', redirectTo: 'students', pathMatch: 'full' },
   {path: 'update-student/:id', component: UpdateStudentComponent},
   {path: 'view-student/:id', component: ViewStudentComponent}
 

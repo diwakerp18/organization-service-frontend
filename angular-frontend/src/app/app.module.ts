@@ -12,10 +12,13 @@ import { ListEmployeesComponent } from './components/employees/list-employees/li
 import { CreateEmployeeComponent } from './components/employees/create-employee/create-employee.component';
 import { UpdateEmployeeComponent } from './components/employees/update-employee/update-employee.component';
 import { ViewEmployeeComponent } from './components/employees/view-employee/view-employee.component';
+import { HomeComponent } from './components/home/home.component';
+import {RouterModule} from "@angular/router";
 
 @NgModule({
   declarations: [
     AppComponent,
+    HomeComponent,
     ListStudentsComponent,
     CreateStudentComponent,
     UpdateStudentComponent,
