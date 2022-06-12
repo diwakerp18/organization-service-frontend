@@ -1,0 +1,42 @@
+<div class="col-md-6 offset-md-3"><br/>
+    <div class="card">
+      <div class="card-header text-center text-success"><b>Student Details</b></div>
+      <div class="card-body">
+        <div>
+          <div>
+            <label><b> Id: </b></label> {{student.id}}
+          </div>
+          <div>
+            <label><b> Student Name: </b></label> {{student.studentName}}
+          </div>
+          <div>
+            <label><b> Roll Number: </b></label> {{student.rollNumber}}
+          </div>
+          <div>
+            <label><b> College Name: </b></label> {{student.collegeName}}
+          </div>
+          <div>
+            <label><b> Email Id: </b></label> {{student.emailId}}
+          </div>
+          <div>
+            <label><b> Phone Number: </b></label> {{student.phoneNumber}}
+          </div>
+          <div>
+            <label><b> Role: </b></label> {{student.role}}
+          </div>
+          <div>
+            <label><b> Batch: </b></label> {{student.batch}}
+          </div>
+          <div>
+            <label><b> Branch: </b></label> {{student.branch}}
+          </div>
+        </div>
+      </div>
+      <div class="card-footer text-center">
+        <button
+                (click) = "listStudents()"
+                class="btn btn-danger"> Cancel
+        </button>
+      </div>
+    </div>
+</div>

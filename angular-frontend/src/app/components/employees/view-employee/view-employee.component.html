@@ -1,0 +1,36 @@
+<div class="col-md-6 offset-md-3"><br/>
+    <div class="card">
+        <div class="card-header text-center text-success"><b>Employee Details</b></div>
+        <div class="card-body">
+            <div>
+                <div>
+                    <label><b> Id: </b></label> {{employee.id}}
+                </div>
+                <div>
+                    <label><b> Employee Name: </b></label> {{employee.employeeName}}
+                </div>
+                <div>
+                    <label><b> College Name: </b></label> {{employee.collegeName}}
+                </div>
+                <div>
+                    <label><b> Email Id: </b></label> {{employee.emailId}}
+                </div>
+                <div>
+                    <label><b> Phone Number: </b></label> {{employee.phoneNumber}}
+                </div>
+                <div>
+                    <label><b> Role: </b></label> {{employee.role}}
+                </div>
+                <div>
+                    <label><b> Branch: </b></label> {{employee.branch}}
+                </div>
+            </div>
+        </div>
+        <div class="card-footer text-center">
+            <button
+                    (click) = "listEmployees()"
+                    class="btn btn-danger"> Cancel
+            </button>
+        </div>
+    </div>
+</div>

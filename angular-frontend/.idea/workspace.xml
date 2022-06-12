@@ -2,29 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7c0dcbf-5b2f-4afe-a440-ff8e048a991f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/.idea/react-frontend.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/components/CreateOrUpdateStudentComponent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/components/FooterComponent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/components/HeaderComponent.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/components/ListStudentComponent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/components/ViewStudentComponent.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/services/StudentService.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-frontend/src/setupTests.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/1.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/10.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/11.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/12.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/13.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/14.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/15.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/16.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/17.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/18.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/2.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/3.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/4.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/5.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/6.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/7.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/8.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/9.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/index.pack.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/employees/employee.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/common/employees/employee.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/create-employee/create-employee.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/create-employee/create-employee.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/create-employee/create-employee.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/list-employees/list-employees.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/list-employees/list-employees.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/list-employees/list-employees.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/update-employee/update-employee.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/update-employee/update-employee.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/update-employee/update-employee.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/view-employee/view-employee.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/view-employee/view-employee.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/employees/view-employee/view-employee.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/students/create-student/create-student.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/students/list-students/list-students.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/students/update-student/update-student.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/students/update-student/update-student.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/components/students/view-student/view-student.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/employee/employee.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/services/employee/employee.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/common/student.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/common/students/student.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/common/student.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/common/students/student.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/create-student/create-student.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/employees/create-employee/create-employee.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/create-student/create-student.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/create-student/create-student.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/create-student/create-student.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/create-student/create-student.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/create-student/create-student.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/create-student/create-student.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/list-students/list-students.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/employees/list-employees/list-employees.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/list-students/list-students.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/list-students/list-students.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/list-students/list-students.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/list-students/list-students.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/list-students/list-students.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/list-students/list-students.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/update-student/update-student.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/employees/update-employee/update-employee.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/update-student/update-student.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/update-student/update-student.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/update-student/update-student.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/update-student/update-student.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/update-student/update-student.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/view-student/view-student.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/employees/view-employee/view-employee.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/view-student/view-student.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/view-student/view-student.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/view-student/view-student.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/view-student/view-student.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/view-student/view-student.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/students/view-student/view-student.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/student.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/student/student.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/services/student.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/student/student.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +81,34 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AIhTpGLnz8pdhbv8DL3VZyi0Zp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nc23042_diwakar_pathak/Desktop/Others/organization-service-frontend/angular-frontend&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nc23042_diwakar_pathak/Desktop/Others/organization-service-frontend/angular-frontend",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/nc23042_diwakar_pathak/Desktop/Others/organization-service-frontend/angular-frontend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/components/employees" />
+      <recent name="$PROJECT_DIR$/src/app/services/student" />
+      <recent name="$PROJECT_DIR$/src/app/services/employee" />
+      <recent name="$PROJECT_DIR$/src/app/common/students" />
+      <recent name="$PROJECT_DIR$/src/app/common/employees" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Tests (angular-student-crud)" type="JavaScriptTestRunnerKarma">
       <config-file value="$PROJECT_DIR$/karma.conf.js" />
@@ -85,10 +141,14 @@
       <updated>1654703016988</updated>
       <workItem from="1654703018104" duration="89000" />
       <workItem from="1654703420295" duration="268000" />
+      <workItem from="1654703721178" duration="13098000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
