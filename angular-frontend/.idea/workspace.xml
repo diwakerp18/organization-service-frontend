@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7c0dcbf-5b2f-4afe-a440-ff8e048a991f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/components/home/home.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/0.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/1.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/10.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/11.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/12.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/13.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/13.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/3.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/4.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/5.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/6.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/7.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/8.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/9.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/index.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/13.2.6/angular-webpack/90ebe1636b80c39b14fc36d5a3c29ec352160a10/index.pack.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +23,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/nc23042_diwakar_pathak/Desktop/Others/organization-service-frontend/angular-frontend",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/nc23042_diwakar_pathak/Desktop/Others/organization-service-frontend/angular-frontend/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nc23042_diwakar_pathak/Desktop/Others/organization-service-frontend/angular-frontend&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/nc23042_diwakar_pathak/Desktop/Others/organization-service-frontend/angular-frontend/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/app/components" />
@@ -99,7 +76,9 @@
       <updated>1654703016988</updated>
       <workItem from="1654703018104" duration="89000" />
       <workItem from="1654703420295" duration="268000" />
-      <workItem from="1654703721178" duration="18839000" />
+      <workItem from="1654703721178" duration="19244000" />
+      <workItem from="1655044775383" duration="1197000" />
+      <workItem from="1655316936433" duration="1009000" />
     </task>
     <servers />
   </component>
